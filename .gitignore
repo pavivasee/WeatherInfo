@@ -1,0 +1,11 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build/
+DerivedData/
+.DS_Store
+WeatherInfo.xcodeproj/xcuserdata
+WeatherInfo.xcodeproj/project.xcworkspace/xcuserdata
+WeatherInfo.xcodeproj/project.xcworkspace/xcshareddata
