@@ -242,6 +242,7 @@
 				TargetAttributes = {
 					A09CECEC1EB180D100A19293 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = DK35C4L2FK;
 					};
 					A09CED051EB180D100A19293 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -473,6 +474,7 @@
 			baseConfigurationReference = 1AD77B41AE7B94FCEF5353E6 /* Pods-WeatherInfo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WeatherInfo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -484,6 +486,7 @@
 			baseConfigurationReference = E260FA8E113F12E3E36D447C /* Pods-WeatherInfo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WeatherInfo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
